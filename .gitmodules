@@ -1,3 +1,6 @@
 [submodule "hardware/altium-lib"]
 	path = hardware/altium-lib
 	url = git@github.com:UTN-BA-Sats/altium-lib.git
+[submodule "hardware/altium-templates"]
+	path = hardware/altium-templates
+	url = https://github.com/UTN-BA-Sats/altium-templates.git
